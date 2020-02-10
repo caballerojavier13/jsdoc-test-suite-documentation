@@ -1,0 +1,24 @@
+{
+  "name": "jsdoc-test-suite-documentation",
+  "version": "1.0.0",
+  "description": "Create Markdowns files for every test suite and their respective tests cases",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caballerojavier13/jsdoc-test-suite-documentation.git"
+  },
+  "keywords": [
+    "jsdoc",
+    "nightwatch",
+    "documentation"
+  ],
+  "author": "Javier Caballero",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/caballerojavier13/jsdoc-test-suite-documentation/issues"
+  },
+  "homepage": "https://github.com/caballerojavier13/jsdoc-test-suite-documentation#readme"
+}
